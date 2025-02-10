@@ -66,10 +66,5 @@ heroku run python manage.py migrate
 
 📧 Contact
 
-For any inquiries, contact Ahmed Said Ali at ahmed.2021.ali2022@gmail.com.
-
-
----
-
-### 📌 **هل تريدني أن أعدل أي شيء أو أضيف تعليمات خاصة؟**
+For any inquiries, contact Ahmed Said Ali at ahmed.2021.ali2022@gmail.com
 
